@@ -1,7 +1,10 @@
 # MERRA-2-Simulation
-# Scripts that help you analyse NASA's MERRA-2 data
 
-# This will get updated soon!
+These scripts will help you analyse NASA's MERRA-2 data
 
-# https://www.youtube.com/watch?v=tqcAi2PcXpQ
-# https://www.youtube.com/watch?v=dONbA9wCUKA
+Watch the two videos below to get sense of what the scripts do:
+
+  https://www.youtube.com/watch?v=tqcAi2PcXpQ
+  https://www.youtube.com/watch?v=dONbA9wCUKA
+
+This will get updated soon!
